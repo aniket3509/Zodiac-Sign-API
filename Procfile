@@ -1,0 +1,1 @@
+web: gunicorn Zodiac_sign:app --log-file - 
