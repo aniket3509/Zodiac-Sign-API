@@ -1,3 +1,4 @@
+python-3.6.8
 absl-py==0.15.0
 adal==1.2.7
 adam==0.0.0.dev0
